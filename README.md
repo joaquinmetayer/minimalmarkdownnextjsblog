@@ -11,13 +11,13 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You only need:
+Final setps:
 
-1 - Search "Minimal Markdown Nextjs blog" and replace this for your blog name.
-2 - Remove all example files on posts folder.
-3 - Start writing.
-4 - Deploy on Vercel.
-5 - Enjoy.
+- Search "Minimal Markdown Nextjs blog" and replace this for your blog name.
+- Remove all example files on posts folder.
+- Start writing.
+- Deploy on Vercel.
+- Enjoy.
 
 ![images/demo1](./public/images/demo1.png)
 
