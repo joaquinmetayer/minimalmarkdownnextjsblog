@@ -10,7 +10,7 @@ export default function RootLayout({
   const header = (
     <header>
       <Link href="/">
-        <h1 className="text-xl font-bold py-6">Joaquin Metayer</h1>
+        <h1 className="text-xl font-bold py-6">Minimal Markdown Nextjs blog</h1>
       </Link>
     </header>
   );
