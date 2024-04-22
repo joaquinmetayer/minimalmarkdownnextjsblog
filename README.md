@@ -19,9 +19,9 @@ You only need:
 4 - Deploy on Vercel.
 5 - Enjoy.
 
-![images/demo1](/images/demo1.png)
+![images/demo1](./public/images/demo1.png)
 
-![images/demo2](/images/demo2.png)
+![images/demo2](./public/images/demo2.png)
 
 
 ## Deploy on Vercel
